@@ -1,2 +1,3 @@
 # hello-world
-Övning i att skapa rep
+
+Snart är jag en mästare i att använda GitHub! Yippee!
